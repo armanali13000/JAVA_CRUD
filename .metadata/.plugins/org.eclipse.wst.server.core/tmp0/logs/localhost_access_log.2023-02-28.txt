@@ -1,0 +1,11 @@
+127.0.0.1 - - [28/Feb/2023:15:09:17 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [28/Feb/2023:15:09:20 +0530] "GET /CRUD_APP/MemberRegister.jsp HTTP/1.1" 200 4456
+0:0:0:0:0:0:0:1 - - [28/Feb/2023:15:09:20 +0530] "GET /CRUD_APP/images/Checklist.jpg HTTP/1.1" 200 44919
+0:0:0:0:0:0:0:1 - - [28/Feb/2023:15:09:20 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [28/Feb/2023:15:09:38 +0530] "POST /CRUD_APP/Register HTTP/1.1" 404 772
+0:0:0:0:0:0:0:1 - - [28/Feb/2023:15:10:26 +0530] "GET /CRUD_APP/MemberRegister.jsp HTTP/1.1" 200 4472
+127.0.0.1 - - [28/Feb/2023:15:46:53 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [28/Feb/2023:15:46:54 +0530] "GET /CRUD_APP/MemberRegister.jsp HTTP/1.1" 200 4472
+0:0:0:0:0:0:0:1 - - [28/Feb/2023:15:47:23 +0530] "GET /CRUD_APP/MemberRegister.jsp HTTP/1.1" 200 4472
+0:0:0:0:0:0:0:1 - - [28/Feb/2023:15:50:28 +0530] "GET /CRUD_APP/MemberRegister.jsp HTTP/1.1" 200 4480
+0:0:0:0:0:0:0:1 - - [28/Feb/2023:15:52:30 +0530] "GET /CRUD_APP/MemberRegister.jsp HTTP/1.1" 200 4480
