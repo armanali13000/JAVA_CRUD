@@ -1,0 +1,35 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title></title>
+
+	<style>
+		body
+		{
+			margin: 0;
+			padding: 0;
+		}
+		.footer
+		{
+			background: #708CD5;
+			height: 100%;
+			padding: 90px;
+		}
+		p{
+			postion: absolute;
+			top: -80px;
+		}
+		
+	</style>
+	
+	
+</head>
+<body>
+	<div class="footer">
+		<p>Contact Us</p>
+	</div>
+</body>
+</html>

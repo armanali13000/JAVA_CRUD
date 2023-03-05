@@ -13,7 +13,7 @@
             padding: 0px;
             margin: 0px;
         }
-        .navbar
+       /* .navbar
         {
             background: #708CD5;
             padding: 30px;
@@ -28,7 +28,7 @@
             padding: 20px;
             margin: 20px;
             font-size: 20px;
-        }
+        }*/
         .header {
             width: 100%;
             display: flex;
@@ -91,15 +91,9 @@
 
 <body>
 
-    <div class="navbar">
-
-        <a href="#">Home</a>  
-        <a href="#">About Us</a>  
-        <a href="#">Social</a>  
-        <a href="#">Contact</a>  
-        
-    </div>
-
+ 	<!-- Navbar -->
+ 	<%@ include file="Header.jsp" %>
+ 	
     <div class="parent">
         <div class="imgDiv">
              <img class="imgTable" alt="image" src="images/Checklist.jpg">

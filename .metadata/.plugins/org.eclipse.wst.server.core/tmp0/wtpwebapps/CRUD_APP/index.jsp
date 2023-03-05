@@ -1,0 +1,31 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Home Page</title>
+
+	<style type="text/css">
+	
+		.coverImg {
+			width: 100%;
+			
+		}
+		
+	</style>
+	
+</head>
+<body>
+		<!-- Navbar -->
+	<%@ include file="Header.jsp" %>
+	
+	<div>
+		<img class="coverImg" src="images/cover.png" alt=""> 
+	</div>
+		
+		<!-- Footer -->
+	<%@ include file="Footer.jsp" %>
+	
+</body>
+</html>
